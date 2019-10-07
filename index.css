@@ -9,7 +9,13 @@ div#vote-wrapper {
 }
 
 div#books { 
+	display: inline-block;
+	text-align: left;
 	margin-left: 40%;
 	font-family: sans-serif;
 	font-size: 25px;
+}
+
+div#books-wrapper {
+	text-align: center;	
 }
