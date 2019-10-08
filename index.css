@@ -9,7 +9,6 @@ div#vote-wrapper {
 }
 
 div#books { 
-	display: inline-block;
 	text-align: left;
 	margin-left: 40%;
 	font-family: sans-serif;
